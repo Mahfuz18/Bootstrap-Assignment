@@ -1,0 +1,77 @@
+.navbar{
+	border-radius: 0px;
+	background: #563D7C;
+}
+
+#heading{
+	font-size: 18px;
+	margin-left: 1px;
+}
+
+#Categories{
+	font-size: 20px;
+
+}
+
+#add{
+	border:1px solid #CCCCCC;
+}
+
+#add a{
+	margin-top: 10px;
+	margin-bottom: 15px;
+}
+
+.space{
+	margin-bottom: 10px;
+}
+
+.image{
+	float: left;
+	margin-right: 10px;
+}
+
+.carousel-inner{
+	
+	width: 100%;
+}
+
+.checked {
+    color: orange;
+}
+
+
+
+.text a{
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+
+.element{
+	border: 1px solid #CCCCCC;
+}
+
+.element img{
+	margin-bottom: 15px;
+}
+
+
+#ft{
+	
+	background: blue;
+	color: white;
+	background: #563D7C;
+	margin-left: 1px;
+	margin-right: 1px;
+
+
+}
+
+#last{
+	margin-top: 30px;
+}
+
+#drop{
+	padding-left: 5px;
+}
